@@ -10,16 +10,21 @@
 
 # hlsearch on (H) or off (h):
 ~H
+# Last Search Pattern:
+~MSle0~/lakmc
+
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1672746507,,"wq!"
+|2,0,1672750482,,"wq!"
 :q!
-|2,0,1672746447,,"q!"
+|2,0,1672750303,,"q!"
 
 # Search String History (newest to oldest):
+?/lakmc/;okl,;psdlxjkv'o;af;osijzkvxm
+|2,1,1672749768,47,"lakmc/;okl,;psdlxjkv'o;af;osijzkvxm"
 ? @$
 |2,1,1672746380,,"@$"
 
@@ -34,120 +39,275 @@ $
 	export PAT
 |3,0,0,1,1,0,1672746380,"export PAT"
 ""1	LINE	0
-	<body>
-|3,1,1,1,1,0,1672746477,"<body>"
+	</html>
+|3,1,1,1,1,0,1672750420,"</html>"
 "2	LINE	0
+	<h2>Welcome to My world baby</h2>
+|3,0,2,1,1,0,1672749774,"<h2>Welcome to My world baby</h2>"
+"3	LINE	0
+	</body>
+|3,0,3,1,1,0,1672749774,"</body>"
+"4	LINE	0
+	</html>
+|3,0,4,1,1,0,1672749773,"</html>"
+"5	LINE	0
+	<body>
+|3,0,5,1,1,0,1672746477,"<body>"
+"6	LINE	0
 	export PAT
-|3,0,2,1,1,0,1672745475,"export PAT"
+|3,0,6,1,1,0,1672745475,"export PAT"
 "-	CHAR	0
 	H
 |3,0,36,0,1,0,1672745475,"H"
 
 # File marks:
-'0  3  13  ~/webapp-project/src/main/webapp/index.jsp
-|4,48,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
-'1  1  0  ~/webapp-project/src/main/webapp/index.xml
-|4,49,1,0,1672746447,"~/webapp-project/src/main/webapp/index.xml"
-'2  8  0  ~/webapp-project
-|4,50,8,0,1672746394,"~/webapp-project"
-'3  12  43  ~/.bash_profile
-|4,51,12,43,1672745617,"~/.bash_profile"
-'4  10  30  ~/.bash_profile
-|4,52,10,30,1672745247,"~/.bash_profile"
+'0  3  32  ~/webapp-project/src/main/webapp/index.jsp
+|4,48,3,32,1672750482,"~/webapp-project/src/main/webapp/index.jsp"
+'1  2  0  ~/src/main/webapp/index.jsp
+|4,49,2,0,1672750303,"~/src/main/webapp/index.jsp"
+'2  1  0  ~/src/main/webapp/index.jsp
+|4,50,1,0,1672750084,"~/src/main/webapp/index.jsp"
+'3  1  0  ~/src/main/webapp/index.jsp
+|4,51,1,0,1672750084,"~/src/main/webapp/index.jsp"
+'4  1  0  ~/src/main/webapp/index.jsp
+|4,52,1,0,1672749885,"~/src/main/webapp/index.jsp"
+'5  1  0  ~/src/main/webapp/index.jsp
+|4,53,1,0,1672749885,"~/src/main/webapp/index.jsp"
+'6  1  2  ~/src/main/webapp/index.jsp
+|4,54,1,2,1672749840,"~/src/main/webapp/index.jsp"
+'7  1  2  ~/src/main/webapp/index.jsp
+|4,55,1,2,1672749840,"~/src/main/webapp/index.jsp"
+'8  1  2  ~/src/main/webapp/index.jsp
+|4,56,1,2,1672749840,"~/src/main/webapp/index.jsp"
+'9  1  2  ~/src/main/webapp/index.jsp
+|4,57,1,2,1672749840,"~/src/main/webapp/index.jsp"
 
 # Jumplist (newest first):
+-'  3  32  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,32,1672750482,"~/webapp-project/src/main/webapp/index.jsp"
+-'  2  0  ~/src/main/webapp/index.jsp
+|4,39,2,0,1672750303,"~/src/main/webapp/index.jsp"
+-'  2  0  ~/src/main/webapp/index.jsp
+|4,39,2,0,1672750303,"~/src/main/webapp/index.jsp"
+-'  1  0  ~/src/main/webapp/index.jsp
+|4,39,1,0,1672750294,"~/src/main/webapp/index.jsp"
+-'  1  0  ~/src/main/webapp/index.jsp
+|4,39,1,0,1672750294,"~/src/main/webapp/index.jsp"
+-'  1  0  ~/src/main/webapp/index.jsp
+|4,39,1,0,1672750084,"~/src/main/webapp/index.jsp"
+-'  1  0  ~/src/main/webapp/index.jsp
+|4,39,1,0,1672750084,"~/src/main/webapp/index.jsp"
+-'  1  0  ~/src/main/webapp/index.jsp
+|4,39,1,0,1672749885,"~/src/main/webapp/index.jsp"
+-'  1  0  ~/src/main/webapp/index.jsp
+|4,39,1,0,1672749885,"~/src/main/webapp/index.jsp"
+-'  1  2  ~/src/main/webapp/index.jsp
+|4,39,1,2,1672749840,"~/src/main/webapp/index.jsp"
+-'  1  2  ~/src/main/webapp/index.jsp
+|4,39,1,2,1672749840,"~/src/main/webapp/index.jsp"
+-'  2  0  ~/src/main/webapp/index.jsp
+|4,39,2,0,1672749788,"~/src/main/webapp/index.jsp"
+-'  2  0  ~/src/main/webapp/index.jsp
+|4,39,2,0,1672749788,"~/src/main/webapp/index.jsp"
+-'  2  0  ~/src/main/webapp/index.jsp
+|4,39,2,0,1672749788,"~/src/main/webapp/index.jsp"
+-'  2  0  ~/src/main/webapp/index.jsp
+|4,39,2,0,1672749788,"~/src/main/webapp/index.jsp"
+-'  2  0  ~/src/main/webapp/index.jsp
+|4,39,2,0,1672749788,"~/src/main/webapp/index.jsp"
+-'  2  0  ~/src/main/webapp/index.jsp
+|4,39,2,0,1672749788,"~/src/main/webapp/index.jsp"
+-'  2  0  ~/src/main/webapp/index.jsp
+|4,39,2,0,1672749788,"~/src/main/webapp/index.jsp"
+-'  2  0  ~/src/main/webapp/index.jsp
+|4,39,2,0,1672749788,"~/src/main/webapp/index.jsp"
+-'  3  7  ~/src/main/webapp/index.jsp
+|4,39,3,7,1672749704,"~/src/main/webapp/index.jsp"
+-'  3  7  ~/src/main/webapp/index.jsp
+|4,39,3,7,1672749704,"~/src/main/webapp/index.jsp"
+-'  3  7  ~/src/main/webapp/index.jsp
+|4,39,3,7,1672749704,"~/src/main/webapp/index.jsp"
+-'  3  7  ~/src/main/webapp/index.jsp
+|4,39,3,7,1672749704,"~/src/main/webapp/index.jsp"
+-'  3  7  ~/src/main/webapp/index.jsp
+|4,39,3,7,1672749704,"~/src/main/webapp/index.jsp"
+-'  3  7  ~/src/main/webapp/index.jsp
+|4,39,3,7,1672749704,"~/src/main/webapp/index.jsp"
+-'  3  7  ~/src/main/webapp/index.jsp
+|4,39,3,7,1672749704,"~/src/main/webapp/index.jsp"
+-'  3  7  ~/src/main/webapp/index.jsp
+|4,39,3,7,1672749704,"~/src/main/webapp/index.jsp"
+-'  3  7  ~/src/main/webapp/index.jsp
+|4,39,3,7,1672749704,"~/src/main/webapp/index.jsp"
+-'  3  7  ~/src/main/webapp/index.jsp
+|4,39,3,7,1672749704,"~/src/main/webapp/index.jsp"
+-'  1  0  ~/src/main/webapp/index.jsp
+|4,39,1,0,1672749510,"~/src/main/webapp/index.jsp"
+-'  1  0  ~/src/main/webapp/index.jsp
+|4,39,1,0,1672749510,"~/src/main/webapp/index.jsp"
+-'  1  0  ~/src/main/webapp/index.jsp
+|4,39,1,0,1672749460,"~/src/main/webapp/index.jsp"
+-'  1  0  ~/src/main/webapp/index.jsp
+|4,39,1,0,1672749460,"~/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
+-'  3  13  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
 -'  3  13  ~/webapp-project/src/main/webapp/index.jsp
 |4,39,3,13,1672746507,"~/webapp-project/src/main/webapp/index.jsp"
 -'  1  0  ~/webapp-project/src/main/webapp/index.jsp
 |4,39,1,0,1672746453,"~/webapp-project/src/main/webapp/index.jsp"
--'  1  0  ~/webapp-project/src/main/webapp/index.xml
-|4,39,1,0,1672746447,"~/webapp-project/src/main/webapp/index.xml"
--'  1  0  ~/webapp-project/src/main/webapp/index.xml
-|4,39,1,0,1672746447,"~/webapp-project/src/main/webapp/index.xml"
--'  8  0  ~/webapp-project
-|4,39,8,0,1672746394,"~/webapp-project"
--'  8  0  ~/webapp-project
-|4,39,8,0,1672746394,"~/webapp-project"
--'  8  0  ~/webapp-project
-|4,39,8,0,1672746394,"~/webapp-project"
--'  8  0  ~/webapp-project
-|4,39,8,0,1672746394,"~/webapp-project"
--'  12  43  ~/.bash_profile
-|4,39,12,43,1672745617,"~/.bash_profile"
--'  12  43  ~/.bash_profile
-|4,39,12,43,1672745617,"~/.bash_profile"
--'  12  43  ~/.bash_profile
-|4,39,12,43,1672745617,"~/.bash_profile"
--'  12  43  ~/.bash_profile
-|4,39,12,43,1672745617,"~/.bash_profile"
--'  12  43  ~/.bash_profile
-|4,39,12,43,1672745617,"~/.bash_profile"
--'  12  43  ~/.bash_profile
-|4,39,12,43,1672745617,"~/.bash_profile"
--'  12  43  ~/.bash_profile
-|4,39,12,43,1672745617,"~/.bash_profile"
--'  12  43  ~/.bash_profile
-|4,39,12,43,1672745617,"~/.bash_profile"
--'  10  30  ~/.bash_profile
-|4,39,10,30,1672745247,"~/.bash_profile"
--'  10  30  ~/.bash_profile
-|4,39,10,30,1672745247,"~/.bash_profile"
--'  10  30  ~/.bash_profile
-|4,39,10,30,1672745247,"~/.bash_profile"
--'  10  30  ~/.bash_profile
-|4,39,10,30,1672745247,"~/.bash_profile"
--'  10  30  ~/.bash_profile
-|4,39,10,30,1672745247,"~/.bash_profile"
--'  10  30  ~/.bash_profile
-|4,39,10,30,1672745247,"~/.bash_profile"
--'  10  30  ~/.bash_profile
-|4,39,10,30,1672745247,"~/.bash_profile"
--'  10  30  ~/.bash_profile
-|4,39,10,30,1672745247,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1672745062,"~/.bash_profile"
+-'  1  0  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,1,0,1672746453,"~/webapp-project/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp-project/src/main/webapp/index.jsp
+|4,39,1,0,1672746453,"~/webapp-project/src/main/webapp/index.jsp"
 
 # History of marks within files (newest to oldest):
 
 > ~/webapp-project/src/main/webapp/index.jsp
-	*	1672746504	0
-	"	3	13
-	^	3	14
-	.	3	13
+	*	1672750477	0
+	"	3	32
+	^	3	33
+	.	3	32
 	+	2	5
 	+	3	13
+	+	5	5
+	+	3	32
 	k	3	12
 	m	3	12
+
+> ~/src/main/webapp/index.jsp
+	*	1672750300	0
+	"	2	0
+	^	2	0
+	.	1	19
+	+	2	6
+	+	3	33
+	+	3	7
+	+	3	0
+	+	1	19
 
 > ~/webapp-project/src/main/webapp/index.xml
 	*	1672746444	0
